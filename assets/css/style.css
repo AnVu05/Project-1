@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+/* dat de de quy doi ve rem */
+html {
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+}
